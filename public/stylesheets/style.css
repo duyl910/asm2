@@ -1,0 +1,28 @@
+
+/* Target the navbar */
+.navbar {
+  background-color: #337ab7; /* Change the background color */
+}
+
+/* Target the navbar brand */
+.navbar-brand {
+  color: #fff; /* Change the text color */
+}
+
+/* Target the navbar links */
+.navbar-nav .nav-link {
+  color: #fff; /* Change the text color */
+}
+
+/* Target the "Get Started" link */
+.getstarted {
+  background-color: #ff0000; /* Change the background color */
+  color: #fff; /* Change the text color */
+  padding: 8px 16px; /* Adjust the padding if needed */
+}
+
+/* Change the color of the navbar toggler icon */
+.navbar-toggler-icon {
+  background-color: #fff; /* Change the color */
+}
+
